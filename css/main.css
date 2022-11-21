@@ -109,8 +109,12 @@ section {
   color: var(--accent-color);
 }
 
-.logo__last-part {
+.logo__last-part--light {
   color: #ffffff;
+}
+
+.logo__last-part--dark {
+  color: #000000;
 }
 
 .navigation {
